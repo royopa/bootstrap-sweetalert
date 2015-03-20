@@ -1,9 +1,16 @@
 {
-  "name": "bootstrap/sweetalert",
+  "name": "lipis/bootstrap-sweetalert",
   "homepage": "http://lipis.github.io/bootstrap-sweetalert/",
   "authors": [
-    "Tristan Edwards <tristan.edwards@me.com> (http://tristanedwards.me)",
-    "Panayiotis Lipiridis <lipiridis@gmail.com> (http://lip.is)"
+    {
+      "name": "Tristan Edwards",
+      "e-mail": "tristan.edwards@me.com",
+      "homepage": "http://tristanedwards.me"
+    },
+    {
+      "name": "Panayiotis Lipiridis",
+      "e-mail": "lipiridis@gmail.com"
+    }
   ],
   "description": "A beautiful replacement for JavaScript's alert for Bootstrap.",
   "main": [
